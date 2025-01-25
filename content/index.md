@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Axiom
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## The setting primer is Coming Soon™
+
+In the meantime, feel free to check out the pages in the explorer on the left. Keep in mind anything you read there is subject to change, especially in the next few weeks before the campaign officially starts.
