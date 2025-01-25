@@ -1,23 +1,9 @@
 %% Begin Waypoint %%
 - **[[K0]]**
-	- **[[Biomes]]**
-		- [[Badlands]]
-		- [[Scrubland]]
-		- [[Wasteland]]
-	- **[[Settlements]]**
-		- [[Melako Valley]]
-		- [[Vaanchor]]
 - **[[K1]]**
-	- **[[Biomes]]**
-		- [[Mushroom Forest]]
 - **[[K2]]**
-	- **[[Biomes]]**
 - **[[K3]]**
-	- **[[Biomes]]**
-		- [[Nutrient Goop]]
 - **[[K4]]**
-	- **[[Biomes]]**
-		- [[Flesh Caves]]
 
 %% End Waypoint %%
 

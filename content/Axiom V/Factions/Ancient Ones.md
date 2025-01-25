@@ -1,3 +1,6 @@
+---
+draft: true
+---
 The mysterious race that occupied [[Melako Valley]] before its current inhabitants. The extent of their influence over the rest of the world is unknown, but the artifacts they left behind indicate a culture far more technologically advanced than present civilization's. 
 
 # Origin
