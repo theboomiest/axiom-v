@@ -8,4 +8,4 @@ Overland trade and travel between [[Vaanchor]] and the other settlements is infr
 
 No faction in [[Melako Valley]] braves the underground quite like the [[Delvers]]. While [[Cave Runners]] stick as closely to the surface as they can, [[Delvers]] plunge deep into the subterranean hoping to find artifacts left behind by the [[Ancient Ones]]. Most do not survive their first descent. 
 
-Good luck, [[Delver]].
+Good luck, [[Delvers|Delver]].
