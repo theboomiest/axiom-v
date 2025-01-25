@@ -1,0 +1,3 @@
+The best known Delvers braved the depths of the underground and returned with fantastical artifacts left behind by the [[Ancient Ones]]. The reality is that most Delvers perform dangerous and miserable jobs for which no one else is willing to risk themselves. 
+
+Anyone willing to descend to the [[K2]] level and beyond is considered a Delver by outsiders, but most serious Delvers do not respect new members until they have survived a journey to [[K3]]

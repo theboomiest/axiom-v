@@ -1,0 +1,3 @@
+Often referred to as just Scrubs, the raiders that harass the civilized settlements in [[Melako Valley]] are united by one common desperation: survival at any cost.
+
+The Scrubs make life on the surface of [[Melako Valley]] a living hell, but the raiders' disorder and generally poor health and equipment mean they are just barely less dangerous than the creatures that inhabit the cave systems below. But just barely.
