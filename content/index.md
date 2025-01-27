@@ -8,6 +8,8 @@ While you read through this primer, keep in mind that the following descriptions
 ## Culture of the valley
 The harsh climate of Melako Valley nurtures a dog eat dog, every man for himself mentality amongst the people of the valley. Nothing comes for free and if something sounds too good to be true, it probably is. The one exception is external threats to a town; feuding neighbors become blood brothers when their home is under threat. External threats usually come from creatures emerging from underground or raiders attacking to poach resources on the surface.
 
+The valley itself is extremely isolated; as far as anyone knows, the people of Melako Valley are the only people in the world. They are surrounded by a brutal desert that none have ever traversed. 
+
 ## Technology level
 The level of technology that the current population can produce is early American wild west with one big asterisk: industry is choked by the small population and scarcity of water. Electricity has been discovered and can be created via steam generators, but water must be carefully rationed and there is no electrical grid system. Inventors and mechanics might have a generator in their workshop to power machinery, but they are the exception rather than the rule. Most buildings are still burning a type of oil harvested by beetle farmers for light and warmth.
 
