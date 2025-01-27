@@ -10,6 +10,9 @@ The harsh climate of Melako Valley nurtures a dog eat dog, every man for himself
 
 The valley itself is extremely isolated; as far as anyone knows, the people of Melako Valley are the only people in the world. They are surrounded by a brutal desert that none have ever traversed. 
 
+## Religion
+Officially, the only organized religion in the valley is dedicated to the Ancient Ones and the surrounding desert: the Echoes of the Ancient Ones. It centers around the belief that the ancients set in motion all of the circumstances that affect the people in the valley. Unofficially, every ancestry has their own stories of gods and goddesses, passed down through the generations. While none seem certain of where the stories came from -- and some of these stories even reference places and events that couldn't have happened -- still they persist. The Echoes of the Ancient Ones claim that this too is within the design of the ancients, and these impossible deities also surve some grand purpose in the ancients' designs.
+
 ## Technology level
 The level of technology that the current population can produce is early American wild west with one big asterisk: industry is choked by the small population and scarcity of water. Electricity has been discovered and can be created via steam generators, but water must be carefully rationed and there is no electrical grid system. Inventors and mechanics might have a generator in their workshop to power machinery, but they are the exception rather than the rule. Most buildings are still burning a type of oil harvested by beetle farmers for light and warmth.
 
