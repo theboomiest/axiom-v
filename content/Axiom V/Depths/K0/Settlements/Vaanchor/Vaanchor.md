@@ -1,3 +1,17 @@
+%% Begin Landmark %%
+- **NPCs**
+	- [[Dubya Dorne]]
+	- [[Farmer Blantz]]
+	- [[Farmer Jantz]]
+	- [[Grombleblot Ditherblip]]
+	- [[Grop]]
+	- [[Initiate Henretta]]
+	- [[Mother Mariyn]]
+	- [[Sheriff Trench]]
+
+%% End Landmark %%
+![[k0 vaanchor concept art.jpg]]
+
 ## Points of Interest
 ### Last Light Saloon
 The largest drinkery in town. The usual hangout for [[Cave Runners]] and [[Delvers]] who have news from the other settlements, which also means the locals go here first when they have something that needs doing underground.
