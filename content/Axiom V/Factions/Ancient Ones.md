@@ -1,7 +1,0 @@
----
-draft: true
----
-The mysterious race that occupied [[Melako Valley]] before its current inhabitants. The extent of their influence over the rest of the world is unknown, but the artifacts they left behind indicate a culture far more technologically advanced than present civilization's. 
-
-# Origin
-The ancient ones were the progenitors of the current races, and resembled them very closely. They had spacefaring and terraforming technology and considered Axiom V a prime candidate for terraforming owing to its already breathable atmosphere. Something went wrong during the journey to Axiom V, resulting in a forced crash landing into a badlands region on the planet's surface. Coordinates for the crash site in the [[MLK]] coordinate system are M3L4K0.

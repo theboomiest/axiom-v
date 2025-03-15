@@ -1,6 +1,0 @@
-## Religion
-### Echoes of the Ancient Ones
-The only "official" religion in the valley, each of the three settlements houses a temple for the Echoes. Practitioners believe that the [[Ancient Ones]] were deific in their intelligence and therefore capable of predicting and pre-orchestrating all the conditions with which modern civilization contends. Echoists have faith that the Ancient Ones constructed a grand design to lead them toward utopia. Misfortune befalling the Echoists are trials left to test their faith or part of the Ancients' brilliance, avoiding some greater catastrophe to keep the faithful safe. 
-
-### Folklore Deities
-Many of the ancestries in the valley have stories passed down through the generations about their own deities, often referencing impossible scenarios or concepts for which the people have no reference. The Echoists tolerate all of these fantastical deities; if the Ancients did not wish the stories to persist, they would not have allowed them to originate long ago.

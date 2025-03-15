@@ -1,1 +1,0 @@
-![[npc_grop_vaanchor.jpg]]
